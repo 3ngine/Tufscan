@@ -5,7 +5,7 @@
 <h2>Usage</h2>
     Clone the repository or download the <strong>Tufscan.py</strong>.<br>
     Open the terminal and navigate to the directory where the port_scanner.py file is located.<br>
-    Run the command <strong>python tufscan.py --target <TARGET_IP> --sP 1 --eP 65535 --threads 10</strong>.<br>
+    Run the command <strong>python tufscan.py --target TARGET_HERE --sP 1 --eP 65535 --threads 10</strong>.<br>
     Enter the IP address or hostname of the target machine.<br>
     (This tool is currently quite slow but it's working<br>
 <h2>Disclaimer</h2>
