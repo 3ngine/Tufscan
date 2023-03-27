@@ -4,7 +4,7 @@
 <p>This is a simple port scanner tool created using Python. It can be used to scan open ports on a target IP address or hostname and it's made by Tufler.<p>
 <h2>Usage</h2>
     Clone the repository or download the <strong>Tufscan.py</strong>.<br>
-    Open the terminal and navigate to the directory where the port_scanner.py file is located.<br>
+    Open the terminal and navigate to the directory where the tufscan.py is located.<br>
     Run the command <strong>python tufscan.py --target TARGET_HERE --sP 1 --eP 65535 --threads 10</strong>.<br>
     Enter the IP address or hostname of the target machine.<br>
     (This tool is currently quite slow but it's working<br>
